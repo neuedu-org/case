@@ -1,6 +1,6 @@
 
 #### 项目编号 : 
----
+<hr>
 
 - 项目名称 : 
 - 项目难度 : A
@@ -15,14 +15,13 @@
 
 
 ##### 案例要求
-> - (required) xxxxxxxxxxxxxxxxxxxxxxx 
-> - (required) xxxxxxxxxxxxxxx
-> -  xxxxxxxxxxxxxxxxxxxxxxxxx
+ - (required) xxxxxxxxxxxxxxxxxxxxxxx 
+ - (required) xxxxxxxxxxxxxxx
+ -  xxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
 
----
 
 <a href="#">
 <img src="https://github.com/neuedu-org/case/blob/master/resources/img/github/github-logo.jpg?raw=true" height=20>
